@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karthi25504
 - 👀 I’m interested in Java,Python
-- 🌱 I’m currently learning B.Tech(CCE0
+- 🌱 I’m currently learning B.Tech(CCE)
 - 💞️ I’m looking to collaborate on App or Software Devolpments
 - 📫 How to reach me insta: @karthi25504
 
